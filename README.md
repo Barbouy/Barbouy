@@ -7,6 +7,6 @@ I love with all my heart to think about UX solutions adapted to each need and de
 
 ---
 
-![linkedin](https://img.shields.io/badge/LinkedIn-0B67C3?style=flat&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/pierre-alexandre-holliger-541301146/)
+![linkedin](https://img.shields.io/badge/LinkedIn-0B67C3?style=flat&logo=LinkedIn&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpierre-alexandre-holliger-541301146%2F)
 
 ![](https://komarev.com/ghpvc/?username=Barbouy&color=F59E0B)
